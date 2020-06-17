@@ -3,6 +3,7 @@ def greet_characters(array)
   #
   # Print a custom greeting for each element
   array.each
+  puts "Hello Ada"
 end
 
 def list_dwarves(array)
