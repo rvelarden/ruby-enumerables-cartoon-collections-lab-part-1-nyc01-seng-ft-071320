@@ -5,7 +5,7 @@ def greet_characters(array)
  
  array.each do |element|
    element.class == Name  
- puts "Hello #{element.each}!"
+ puts "Hello #{Name}!"
 end
 end 
 def list_dwarves(array)
