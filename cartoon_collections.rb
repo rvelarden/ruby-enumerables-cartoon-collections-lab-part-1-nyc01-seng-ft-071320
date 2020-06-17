@@ -15,3 +15,4 @@ def list_dwarves(array)
   array.each do |name| 
    puts "1. #{name}!"
 end
+end
