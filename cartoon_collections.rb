@@ -2,9 +2,9 @@ def greet_characters(array)
   # Use `each` to enumerate over the provided array
   #
   # Print a custom greeting for each element
- characters = name 
+ 
   array.each
- puts "Hello, #{characters}!"
+ puts "Hello, Ada!"
 end
 
 def list_dwarves(array)
